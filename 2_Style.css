@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(200,200,200);}    /*RGB COLOR VALUE*/
+    h2 {
+    background-color: hsl(338, 84%, 59%);}    /*HEX CODES COLOR VALUES*/
+    p {
+    background-color: white;}        /* COLOR NAMES */
